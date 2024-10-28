@@ -173,5 +173,3 @@ The **Smart Scheduler Dashboard** helps you optimize your appliance schedules wi
 This project is licensed under the [MIT License](LICENSE).
 
 Thank you for using the Energy Management System! Together, let's make smarter energy choices for a greener future 🌱💡✨
-
-
